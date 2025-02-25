@@ -1,8 +1,5 @@
 # MultiplyX
 
-Mutiply Calc
+Mutiply num that you put in.
 
-โปรแกรมคำนวนสูตรคูณ เขียนด้วย
-js html css
-
-version : 2.0
+version : 1
